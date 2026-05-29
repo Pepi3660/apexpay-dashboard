@@ -1,0 +1,15 @@
+{
+"name": "apexpay-dashboard",
+"version": "1.0.0",
+"description": "ApexPay Business Dashboard for Payment Processing",
+"main": "src/index.js",
+"scripts": {
+"start": "node src/index.js",
+"build": "echo 'Compilando assets...' && mkdir -p dist && echo 'UI Minificada' > dist/bundle.js"
+},
+"dependencies": {
+"express": "^4.18.2",
+"chart.js": "^4.2.1"
+},
+"author": "ApexPay Engineering"
+}

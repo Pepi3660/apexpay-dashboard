@@ -1,0 +1,5 @@
+{
+"gateway_url": "https://api.apexpay.com/v1/charge",
+"timeout_ms": 5000,
+"retry_attempts": 3
+}
