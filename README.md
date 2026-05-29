@@ -1,2 +1,2 @@
 # apexpay-dashboard
-# Tema del proyecto: Oscuro
+# Tema del proyecto: Claro
