@@ -78,5 +78,5 @@ _Respuesta:_
 ---
 
 ### 5. Hito 4: Enlaces de Gobernanza y Solicitudes de Integración
-* **Pull Request de Menú (`feat/menu-principal`):** `https://github.com/pull/2`
-* **Pull Request de Footer (`feat/footer`):** `https://github.com/pull/1`
+* **Pull Request de Menú (`feat/menu-principal`):** `https://github.com/Pepi3660/apexpay-dashboard/pull/2`
+* **Pull Request de Footer (`feat/footer`):** `https://github.com/Pepi3660/apexpay-dashboard/pull/1`
