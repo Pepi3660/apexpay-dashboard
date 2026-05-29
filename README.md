@@ -9,7 +9,7 @@
 ### 1. Identificación del Equipo Ágil
 * **Grupo de Trabajo N°:** [Insertar número]
 * **Integrantes de Ingeniería:**
-* **[DESARROLLADOR 1] (Líder):** [Nombre completo] | GitHub: @[Usuario]
+* **[DESARROLLADOR 1] (Líder):** Ricardo Antonio Álvarez Montenegro | GitHub: @[Pepi3660]
 * **[DESARROLLADOR 2] (Colaborador):** [Nombre completo] | GitHub: @[Usuario]
 ---
 ### 2. Hito 1: Implementación de Seguridad Perimetral (.gitignore)
